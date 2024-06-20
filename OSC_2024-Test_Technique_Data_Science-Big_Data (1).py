@@ -304,17 +304,7 @@ plt.show()
 # #### OSC Challenge
 # ###### Yong Justice Animbom Numfor
 
-# In[42]:
-
-
-plt.savefig('sales_trend_chart.png')
-
-
-# In[44]:
-
-
-plt.show() 
-plt.savefig('my_plot.png')
+)
 
 
 
